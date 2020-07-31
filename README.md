@@ -18,13 +18,6 @@
 
 
 
-![model](download.jpg)
-
-
-
-
-
-
 
 
 
