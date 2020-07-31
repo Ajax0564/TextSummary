@@ -11,8 +11,7 @@
 
 
 
-
-
+![model](https://github.com/Ajax0564/TextSummary/blob/master/model.jpg)
 
 
 
