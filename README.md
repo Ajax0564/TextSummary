@@ -22,9 +22,9 @@
 
 text : So hot today =_= don`t like it and i hate my new timetable, having such a bad week
 
-sentiment :  don`t like it and i hate my new timetable
+summary :  don`t like it and i hate my new timetable
 
 text : you are lame go make me breakfast!!
 
 
-sentiment : lame
+summary : lame
